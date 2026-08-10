@@ -1,0 +1,5 @@
+numbers = list(map(int, input("Enter 10 numbers separated by spaces: ").split()))
+numbers.sort()
+print("Ascending order:", numbers)
+numbers.sort(reverse=True)
+print("Descending order:", numbers)
