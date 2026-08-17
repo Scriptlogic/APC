@@ -1,0 +1,9 @@
+# 13. Check whether first set is subset of second
+
+set1 = {1, 2, 3}
+set2 = {1, 2, 3, 4, 5}
+
+if set1.issubset(set2):
+    print("First set is a subset of second set")
+else:
+    print("First set is not a subset of second set")
