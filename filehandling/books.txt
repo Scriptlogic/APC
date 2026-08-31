@@ -1,0 +1,3 @@
+101,Python Programming,John Smith,Available
+102,Data Structures,Ramesh Kumar,Available
+103,Operating Systems,Andrew Tanenbaum,Issued56,thet,hgfaga,Available

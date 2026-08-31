@@ -1,0 +1,4 @@
+Hello Python.
+This is the first file.
+Welcome to file handling.
+This is the second file.
